@@ -42,7 +42,8 @@ To get a local copy up and running, follow these simple steps.
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/your-username/dice-roller.git](https://github.com/your-username/dice-roller.git)
+   git clone [https://github.com/-codewithpoojitha2006/Roll-Dice.git]
+   
 2. **Navigate to the project folder:**
     ```bash
    cd dice-roller
