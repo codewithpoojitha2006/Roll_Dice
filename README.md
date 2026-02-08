@@ -46,7 +46,7 @@ To get a local copy up and running, follow these simple steps.
    
 2. **Navigate to the project folder:**
     ```bash
-   cd dice-roller
+   cd roll_dice_app
     
 3. **Install dependencies:**
    ```bash
